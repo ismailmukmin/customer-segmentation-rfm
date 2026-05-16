@@ -1,4 +1,2 @@
 *.ipynb linguist-detectable=true
 *.ipynb linguist-language=Jupyter Notebook
-*.html linguist-detectable=false
-README.md linguist-detectable=false
